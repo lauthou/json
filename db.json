@@ -1,10 +1,31 @@
-[
-  {
-    "code": "arhs",
-    "label": "Arhs"
-  },
-  {
-    "code": "altran",
-    "label": "Altran"
-  }
-]
+{
+  "id": 1,
+  "name": "companies",
+  "filesystemRoot": "C:\\Users\\thouvela\\Documents\\cv",
+  "pathExpression": null,
+  "filenameExpression": "${filename}.${extension}",
+  "fileSaver": "COUNTER",
+  "password": null,
+  "fields": [
+    {
+      "id": 2,
+      "name": "company",
+      "label": "Entreprises",
+      "optional": false,
+      "defaultValue": null,
+      "type": "LIST",
+      "format": null,
+      "dictionary": [
+        {
+          "code": "arhs",
+          "label": "Arhs"
+        },
+        {
+          "code": "altran",
+          "label": "Altran"
+        }
+      ]
+    }
+  ],
+  "completePathExpression": "${filename}.${extension}"
+}
