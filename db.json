@@ -12,6 +12,7 @@
       "name": "company",
       "label": "Entreprises",
       "optional": false,
+      "sortingOrderDesc": false,
       "defaultValue": null,
       "type": "LIST",
       "format": null,
