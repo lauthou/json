@@ -1,16 +1,16 @@
 {
   "id": 1,
-  "name": "companies",
-  "filesystemRoot": "C:\\Users\\thouvela\\Documents\\cv",
+  "name": "users",
+  "filesystemRoot": "C:\\Users\\thouvela\\Documents\\companies",
   "pathExpression": null,
   "filenameExpression": "${filename}.${extension}",
   "fileSaver": "COUNTER",
   "password": null,
   "fields": [
     {
-      "id": 2,
+      "id": 1,
       "name": "company",
-      "label": "Entreprises",
+      "label": "Companies",
       "optional": false,
       "sortingOrderDesc": false,
       "defaultValue": null,
