@@ -1,16 +1,14 @@
 {
-  "id": 1,
   "name": "users",
-  "filesystemRoot": "C:\\Users\\thouvela\\Documents\\companies",
+  "filesystemRoot": "C:\\Users\\thouvela\\Documents\\users",
   "pathExpression": null,
   "filenameExpression": "${filename}.${extension}",
   "fileSaver": "COUNTER",
   "password": null,
   "fields": [
     {
-      "id": 1,
-      "name": "company",
-      "label": "Companies",
+      "name": "users",
+      "label": "Users",
       "optional": false,
       "sortingOrderDesc": false,
       "defaultValue": null,
@@ -18,12 +16,16 @@
       "format": null,
       "dictionary": [
         {
-          "code": "arhs",
-          "label": "Arhs"
+          "code": "bclint",
+          "label": "Bill Clinton"
         },
         {
-          "code": "altran",
-          "label": "Altran"
+          "code": "bobama",
+          "label": "Barack Obama"
+        },
+        {
+          "code": "jfkenn",
+          "label": "John Fitzgerald Kennedy"
         }
       ]
     }
