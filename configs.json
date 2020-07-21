@@ -1,5 +1,5 @@
 {
-  "configs": [
+  "configurationFiles": [
     {
       "name": "companies",
       "url": "https://raw.githubusercontent.com/lauthou/json/master/config_companies.json"
